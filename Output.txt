@@ -1,0 +1,48 @@
+PS C:\Users\Mehul Srivastava\Desktop\DSA Sem 2> python aert_toolkit.py
+Part B- Factorial Tests
+0! = 1
+1! = 1
+5! = 120
+10! = 3628800
+
+
+Part B- Fibonacci Tests
+Fibonacci(5)
+Naive Result: 5
+Naive Calls Counts: 15
+Memo Result: 5
+Memo Calls Counts: 9
+Fibonacci(10)
+Naive Result: 55
+Naive Calls Counts: 177
+Memo Result: 55
+Memo Calls Counts: 19
+Fibonacci(20)
+Naive Result: 6765
+Naive Calls Counts: 21891
+Memo Result: 6765
+Memo Calls Counts: 39
+Fibonacci(30)
+Naive Result: 832040
+Naive Calls Counts: 2692537
+Memo Result: 832040
+Memo Calls Counts: 59
+
+
+Part C- Tower of Hanoi (N=3)
+Move disk 1 from A to C
+Move disk 2 from A to B
+Move disk 1 from C to B
+Move disk 3 from A to C
+Move disk 1 from B to A
+Move disk 2 from B to C
+Move disk 1 from A to C
+
+
+Part D- Binary Search Tests
+Search 7: 3
+Search 1: 0
+Search 13: 6
+Search 2: -1
+Search in empty list: -1
+PS C:\Users\Mehul Srivastava\Desktop\DSA Sem 2>
